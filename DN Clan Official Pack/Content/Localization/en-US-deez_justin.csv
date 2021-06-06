@@ -1,0 +1,23 @@
+Key,Translation
+Currency.Copper,Silver
+ItemName.CopperCoin,Silver Stud
+ProjectileName.CopperCoin,Silver Stud
+ProjectileName.CopperCoinsFalling,Silver Studs
+Currency.Silver,Gold
+ItemName.SilverCoin,Gold Stud
+ProjectileName.SilverCoin,Gold Stud
+ProjectileName.SilverCoinsFalling,Gold Studs
+Currency.Gold,Blue
+ItemName.GoldCoin,Blue Stud
+ProjectileName.GoldCoin,Blue Stud
+ProjectileName.GoldCoinsFalling,Blue Studs
+Currency.Platinum,Purple
+ItemName.PlatinumCoin,Purple Stud
+ProjectileName.PlatinumCoin,Purple Stud
+ProjectileName.PlatinumCoinsFalling,Purple Studs
+Prefix.Massive,Comically Large
+ItemName.WandofSparking,Flint and Steel
+ItemTooltip.WandofSparking,"*click-clack* *cough* *running footsteps*"
+BuffDescription.PirateMinion,You have a lidl amoung frend :3
+ItemName.PirateStaff,Emergency Meeting Staff
+ItemTooltip.PirateStaff,Calls an amongus to fight for you
