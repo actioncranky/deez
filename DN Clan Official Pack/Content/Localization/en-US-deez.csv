@@ -1,1 +1,29 @@
 Key,Translation
+ItemName.EyeofCthulhuTrophy,Orb Trophy
+ItemName.TheEyeOfCthulhu,The Orb of Eighths
+NPCName.EyeofCthulhu,Cthulhu's Orb of Fate
+ItemName.SuspiciousLookingEye,Odd Orb
+ItemTooltip.SuspiciousLookingEye,It's an Orb that looks odd
+NPCName.ServantofCthulhu,Orblet
+NPCName.EaterofSouls,Cursor of Souls
+ItemName.EaterofSoulsBanner,Cursor of Souls Banner
+ItemName.EyeofCthulhuMasterTrophy,Orb of Fate Relic
+NPCName.Bunny,Tsubunny
+ItemName.CorruptorBanner,Selector Banner
+ItemName.ScourgeoftheCorruptor,Scourge of the Selector
+ItemTooltip.ScourgeoftheCorruptor,An important tool for Gamer and Desk Jockey alike
+NPCName.Corruptor,Selector
+NPCName.TheDestroyerBody,The Super Admin
+NPCName.TheDestroyerTail,The Super Admin
+NPCName.TheDestroyer,The Super Admin
+NPCName.Probe,Hover Ball
+ItemName.DestroyerMasterTrophy,Admin Relic
+ItemName.DestroyerTrophy,Item Trophy
+ItemTooltip.MechanicalWorm,Calls the Admin
+ItemName.MechanicalWorm,Report Button
+LegacyMisc.28,You hear faint screams of RDM in proximity chat…
+ItemName.Handgun,Magnum
+ItemName.WhitePhaseblade,Diamond Sword
+ItemTooltip.ClockworkAssaultRifle,"""When nothing else gets the job done, the BR55 Battle Rifle will do."""
+ItemName.ClockworkAssaultRifle,Battle Rifle
+ItemTooltip.SniperRifle,"""Move in behind enemy lines and evaluate the opposition."""
