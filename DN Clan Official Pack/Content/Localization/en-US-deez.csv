@@ -37,3 +37,8 @@ NPCName.DiggerTail,Drigger
 BuffName.GolfCartMount,Mongoose
 ItemName.GolfCart,Mongoose Keys
 ItemTooltip.GolfCart,Orders A Mongoose from UNSC supply
+ItemName.Shuriken,Sharpened Card
+ProjectileName.Shuriken,Playing Card
+ItemName.ThrowingKnife,Dart
+ProjectileName.ThrowingKnife,Dart
+ItemTooltip.ThrowingKnife,Less effective against Bloon Slimes than one might think.
