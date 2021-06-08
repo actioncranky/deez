@@ -34,3 +34,6 @@ NPCName.GiantWormTail,Giant Finger
 NPCName.DiggerBody,Drigger
 NPCName.DiggerHead,Drigger
 NPCName.DiggerTail,Drigger
+BuffName.GolfCartMount,Mongoose
+ItemName.GolfCart,Mongoose Keys
+ItemTooltip.GolfCart,Orders A Mongoose from UNSC supply
