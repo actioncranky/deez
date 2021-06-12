@@ -24,7 +24,6 @@ Prefix.Masterful,Epic
 Prefix.Savage,Server-Clearing
 Prefix.Deadly,Australian
 Prefix.Rapid,Sufficiently Lethal
-Prefix.Hasty,Notably Dangerous
 Prefix.Staunch,Somewhat Threatening
 Prefix.Superior,Notably Dangerous
 Prefix.Demonic,Positively Inhumane
@@ -43,6 +42,8 @@ BuffDescription.PirateMinion,You have a lidl amoung frend :3
 ItemName.PirateStaff,Emergency Meeting Staff
 ItemTooltip.PirateStaff,Calls an amongus to fight for you
 ItemName.Boomstick,Scattergun
-ItemToolTip.Boomstick,"'Think fast chucklenuts!'"
+ItemTooltip.Boomstick,"'Think fast chucklenuts!'"
 ItemName.ChickenNugget,BTS Meal
-ItemToolTip.ChickenNugget,"'10 piece chicken macnugeh'"
+ItemTooltip.ChickenNugget,"'10 piece chicken macnugeh'"
+ItemName.Musket,Ballista (Ironsights)
+ItemTooltip.Musket."'Conversion process interrupted!'"
